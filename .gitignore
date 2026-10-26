@@ -1,0 +1,6 @@
+# Local Cindy packages and temporary build output
+*.cindy
+__pycache__/
+*.pyc
+node_modules/
+.DS_Store
